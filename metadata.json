@@ -1,0 +1,7 @@
+{
+  "name": "Chemical Label Studio",
+  "description": "Enterprise chemical safety and GHS/NFPA/HMIS label management studio with SDS AI extraction and compliance validation for industrial and oil & gas operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
